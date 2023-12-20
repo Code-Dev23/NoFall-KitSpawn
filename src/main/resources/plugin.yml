@@ -1,0 +1,3 @@
+name: NoFall-KitSpawn
+version: '${project.version}'
+main: it.codedev.nofallkitspawn.NoFallKitSpawn
